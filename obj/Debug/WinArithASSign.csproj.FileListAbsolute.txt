@@ -1,0 +1,10 @@
+E:\DotnetconsoleApp\WinArithASSign\WinArithASSign\bin\Debug\WinArithASSign.exe.config
+E:\DotnetconsoleApp\WinArithASSign\WinArithASSign\bin\Debug\WinArithASSign.exe
+E:\DotnetconsoleApp\WinArithASSign\WinArithASSign\bin\Debug\WinArithASSign.pdb
+E:\DotnetconsoleApp\WinArithASSign\WinArithASSign\obj\Debug\WinArithASSign.csprojAssemblyReference.cache
+E:\DotnetconsoleApp\WinArithASSign\WinArithASSign\obj\Debug\WinArithASSign.Form1.resources
+E:\DotnetconsoleApp\WinArithASSign\WinArithASSign\obj\Debug\WinArithASSign.Properties.Resources.resources
+E:\DotnetconsoleApp\WinArithASSign\WinArithASSign\obj\Debug\WinArithASSign.csproj.GenerateResource.cache
+E:\DotnetconsoleApp\WinArithASSign\WinArithASSign\obj\Debug\WinArithASSign.csproj.CoreCompileInputs.cache
+E:\DotnetconsoleApp\WinArithASSign\WinArithASSign\obj\Debug\WinArithASSign.exe
+E:\DotnetconsoleApp\WinArithASSign\WinArithASSign\obj\Debug\WinArithASSign.pdb
